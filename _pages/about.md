@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: 473126899240195031.jpg
+  image: panda.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
